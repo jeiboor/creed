@@ -236,20 +236,20 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {160890821},{74770898}--Sudo users
+    sudo_users = {160890821},{53406884}--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @MR_werewolf
+    ‼️ this bot is made by : aryanes81
     
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ   @aryanes81
+   ߔࠀ   @MR_saf
+   ߔࠀ   @aryanes81
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
