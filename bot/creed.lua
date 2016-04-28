@@ -236,7 +236,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {53406884},{160890821}--Sudo users
+    sudo_users = {161493604},{160890821}--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -247,10 +247,9 @@ function create_config( )
     
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @aryanes81
-   ߔࠀ   @MR_saf
-   ߔࠀ   @aryanes81
-   〰〰〰〰〰〰〰〰
+   ߔࠀ   @Xx_hacker_boy_Xx
+   ߔࠀ   @Xx_nfrat_xX
+   ߔࠀ   @King_alone_resident_RENGER   〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
@@ -531,6 +530,9 @@ To tags the every one and sends your message at bottom
 
 You Can user both "!" & "/" for them
 می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
+
+سازنده : @Xx_hacker_boy_xX
+کانال ما : @sis_team
 
 ]]
 
